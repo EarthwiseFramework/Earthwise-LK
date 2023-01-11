@@ -9,3 +9,5 @@ The full zip folder, uncompressed, is here: https://drive.google.com/file/d/1rUU
 The full documentation folder is here: https://drive.google.com/file/d/1S5IJuOaXTx73DL639DGImCHG4_ze-r1B/view?usp=sharing
 
 And the connectivity model is here: https://drive.google.com/file/d/1S5IJuOaXTx73DL639DGImCHG4_ze-r1B/view?usp=sharing 
+
+There are at least two peer-reviewed publications that refer to this toolbox.
