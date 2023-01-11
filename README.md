@@ -1,4 +1,4 @@
-# Earthwise-LK- The Earthwise Framework SDSS for the Little Karoo of South Africa
+# Earthwise-LK: The Earthwise Framework SDSS for the Little Karoo of South Africa
 
 Note, this page was called Prototype-SA at one point, and the tool was originally called LandAdvisor.
 
