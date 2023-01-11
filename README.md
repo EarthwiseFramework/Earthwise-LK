@@ -1,8 +1,8 @@
-# Prototype-SA
+# Earthwise-LK- The Earthwise Framework SDSS for the Little Karoo of South Africa
 
-The Earthwise Framework SDSS for the Little Karoo of South Africa.(Note that it was originally called LandAdvisor.)
+Note, this page was called Prototype-SA at one point, and the tool was originally called LandAdvisor.
 
-This was written with ArcGIS 9.x, on Windows XP or Windows 7, so is unlikely to work in more recent versions of ArcGIS and Windows. As such, it may be best to consider the models and scripts herein as detailed documentation. 
+This SDSS was written with ArcGIS 9.x, on Windows XP, so is unlikely to work in more recent versions of ArcGIS and Windows. As such, it may be best to consider the models and scripts herein as detailed documentation. 
 
 The full zip folder, uncompressed, is here: https://drive.google.com/file/d/1rUUW_lLaH0XMhA6F5XxeTv9avDQOlTxE/view?usp=sharing 
 
