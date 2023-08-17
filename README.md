@@ -10,4 +10,6 @@ The full documentation folder is here: https://drive.google.com/file/d/1S5IJuOaX
 
 And the connectivity model is here: https://drive.google.com/file/d/1S5IJuOaXTx73DL639DGImCHG4_ze-r1B/view?usp=sharing 
 
-There are at least two peer-reviewed publications that refer to this toolbox.
+There are at least three peer-reviewed publications that refer to this toolbox.
+
+One is "Meeting Human and Biodiversity Needs for 30 × 30 and beyond with an Iterative Land Allocation Framework and Tool" https://www.mdpi.com/2073-445X/12/1/254 
